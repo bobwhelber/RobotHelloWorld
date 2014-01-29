@@ -1,0 +1,6 @@
+MIDlet-Name: RobotHelloWorld
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: HelloWorld, , edu.wpi.first.RobotHelloWorld.HelloWorld
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
